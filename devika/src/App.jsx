@@ -51,3 +51,4 @@ function anotherPlaceholderFunction() {
 //added part 3 quickart
 export default App
 // it is an extra
+// it ia extra line
